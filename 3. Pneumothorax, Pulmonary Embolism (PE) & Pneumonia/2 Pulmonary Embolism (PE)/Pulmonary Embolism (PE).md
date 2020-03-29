@@ -14,7 +14,7 @@ Most commonly, pulmonary embolism is due to a blood clot or thrombus, but there 
 Pathophysiology
 A series of happenings occur inside a patient’s body when he or she has emboli.
 
-# Pathophysiology of Pulmonary Embolism.
+# Pathophysiology of Pulmonary Embolism. TEST
 
 Click the image to enlarge.
 Pathophysiology of Pulmonary Embolism. Click the image to enlarge.
