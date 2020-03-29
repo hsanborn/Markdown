@@ -2,6 +2,7 @@
 
 ![](assets/no_aerosol.png)
 
+this image requires more explanation
 These are used for patients that need supplemental oxygen and are breathing on their OWN.
 
 #### Nursing Implications
