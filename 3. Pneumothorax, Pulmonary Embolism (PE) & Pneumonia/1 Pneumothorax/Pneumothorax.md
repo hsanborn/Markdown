@@ -194,11 +194,11 @@ All of the following are causes of pneumothorax EXCEPT:
 # Question 2
 All of the following can cause a pneumothorax EXCEPT:
 
-[WRONG] A person stabbed in the back just below the apex of the scapula by a 7 inch knife
-[WRONG] A person on a ventilator
-[RIGHT] A patient receiving chemotherapy 
-[WRONG] Placement of a central line
-[WRONG] Complication from a tracheostomy
+[WRONG] A person with a stab wound below the scapula
+[WRONG] Mechanical ventillation
+[RIGHT] A patient receiving high dose chemotherapy 
+[WRONG] Insertion of a central line
+[WRONG] Placement of a tracheostomy
 
 # Question 3
 Which of the following is a cause of primary pneumothorax?
@@ -210,11 +210,11 @@ Which of the following is a cause of primary pneumothorax?
 [RIGHT] None of the above
 
 # Question 4
-All of the following are examples of Secondary pneumothorax EXCEPT:
+All of the following are risk factors for a secondary pneumothorax EXCEPT:
 
 [WRONG] A patient in the ICU on a ventilator
-[RIGHT] A spontaneous pneumothorax in a young patient with a history of smoking but no known disease
-[WRONG] A patient with lung cancer
+[RIGHT] A young male patient with a history of smoking
+[WRONG] A patient with a history of COPD and asthma
 [WRONG] A patient with Marfan syndrome
 [WRONG] A patient with tuberculosis
 
@@ -224,7 +224,7 @@ Which of the following is NOT a sign or symptom of pneumothorax?
 [WRONG] A patient complaining of shortness of breath
 [WRONG] A patient who suddenly develops chest pain
 [WRONG] Sudden increase in heart rate
-[RIGHT] Increased arterial blood pressure
+[RIGHT] Elevated arterial blood pressure
 [WRONG] Tracheal deviation
 
 # Question 6
@@ -242,6 +242,7 @@ Which of the following is a sign or symptom of pneumothorax?
 [RIGHT] Dyspnea
 [WRONG] Hypertension
 [WRONG] Erythema
+[WRONG] Diaphoreses
 
 # Question 9
 What should be performed if a patient is hemodynamically unstable with convincing indications of tension pneumothorax?
@@ -261,9 +262,9 @@ The presence of air or gas in the pleural cavity is known as what?
 # Question 11 Are the order of the questions randomized?
 How does air accumulation in the pleural cavity affect the lungs?
 
-[RIGHT] The lungs collapse and vital capacity increases
+[RIGHT] The lungs collapse and vital capacity decreases
 [WRONG] The lungs expand and vital capacity decreases
-[WRONG] The lungs collapse and vital capacity decreases
+[WRONG] The lungs collapse and vital capacity increases
 
 # Question 12
 What causes the lungs to collapse in a pneumothorax?
@@ -307,22 +308,12 @@ A collection of blood in the pleural space is known as what?
 [WRONG] Pneumothorax
 [WRONG] Pleural effusion
 
-# Question 19 
-What is the preferred method of evaluation for intrathoracic injuries?
+Question 19 removed - not something a nurse needs to know.
 
-[RIGHT] CT scan
-[WRONG] MRI
-[WRONG] Oblique chest x-ray
-
-# Question 20 
-What diagnostic test can be used at a patient’s bedside for triage and identification of life-threatening injuries?
-
-[RIGHT] Point-of-care ultrasound
-[WRONG] CT scan
-[WRONG] Chest x-ray
+Question 20 removed - not accurate
 
 # Question 21
-Management of a pneumothorax depends on what?
+Management of a pneumothorax depends on what initial assessment?
 
 [RIGHT] Clinical presentation
 [WRONG] Oxygen saturation
@@ -346,7 +337,7 @@ Pneumothorax patients who are clinically stable should receive what treatment?
 [WRONG] Chest wall repair
 
 # Question 24
-Which of the following pneumothoraces is treated by the administration of oxygen under observation and repeated chest radiography?
+Which of the following pneumothoraces is treated by the administration of oxygen under observation and repeated chest x-ray?
 
 [RIGHT] Asymptomatic pneumothorax
 [WRONG] Unstable pneumothorax
@@ -380,7 +371,7 @@ A 65-year-old male patient with a history of emphysema presents to the hospital 
 
 [WRONG] Video-assisted thoracic surgery (VATS)
 [WRONG] CT scan of the chest
-[RIGHT] Needle decrompression
+[RIGHT] Needle aspiration
 [WRONG] Extended focused abdominal sonography for trauma (E-FAST)
 
 # Question 29
@@ -410,10 +401,10 @@ A patient suffered a stab wound that damaged the pleura allowing air into the pl
 # Question 32
 A 28-year old was admitted with sudden onset dyspnea while walking. He is a heavy smoker. Chest x-ray reveals a 90% pneumothorax on the right side. The emergency room resident placed a size 32F chest tube to evacuate the pneumothorax. An hour later the patient complained of severe shortness of breath and his pulse oximeter revealed oxygen saturation of 82%. Examination finds distended neck veins, distant heart sounds, and hypotension. What is the most likely diagnosis?
 
-[WRONG] It only occurs in elderly people
-[WRONG] The incidence is very high
-[RIGHT] It affects patients with extensive pneumothorax
-[WRONG] It occurs only with exudate but not transudate effusion evacuations
+[RIGHT] Tension pneumothorax
+[WRONG] Open pneumothorax
+[WRONG] Iatrogenic pneumothorax
+[WRONG] Traumatic pneumothorax
 
 # Question 33
 The healthcare provider is assisting during the insertion of a pulmonary artery catheter. Which of these, if assessed in the patient, would indicate the patient is experiencing a complication from the catheter insertion?
@@ -422,7 +413,4 @@ The healthcare provider is assisting during the insertion of a pulmonary artery 
 [WRONG] Excursion of the diaphragm by more than 3 cm
 [RIGHT] Tracheal deviation
 [WRONG] Vesicular breath sounds heard while auscultating
-[RIGHT] Tension pneumothorax
-[WRONG] Open pneumothorax
-[WRONG] Iatrogenic pneumothorax
-[WRONG] Traumatic pneumothorax
+
